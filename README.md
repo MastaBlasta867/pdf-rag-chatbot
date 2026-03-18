@@ -2,7 +2,7 @@
   <img src="https://dummyimage.com/1200x250/0d1117/ffffff&text=PDF+RAG+Chatbot+%7C+AI-Powered+PDF+Question+Answering" alt="PDF RAG Chatbot Banner">
 </p>
 
-# 📘 PDF RAG Chatbot
+# 📘 DocuMind AI: Retrieval‑Augmented PDF Question Answering System
 
 A fully featured **Retrieval-Augmented Generation (RAG)** application that reads PDF documents and answers user questions using **LangChain**, **ChromaDB**, and **Gradio**.  
 
